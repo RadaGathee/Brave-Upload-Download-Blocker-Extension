@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Download-Upload Blocker",
+  "version": "1.0",
+  "description": "Blocks all downloads and uploads from or to any website.",
+  "permissions": [
+    "webRequest",
+    "webRequestBlocking",
+    "downloads",
+    "<all_urls>"
+  ],
+  "background": {
+    "scripts": ["block.js"]
+  },
+  "icons": {
+    "48": "icon48.png"
+  }
+}

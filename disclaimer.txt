@@ -1,0 +1,5 @@
+Was to help in surfing the net without accidentally downloading unwanted info or upload it
+
+It blocks uploads of every format to every site, even text - will log you out of sites you had logged in.
+
+Disable to reaccess.
